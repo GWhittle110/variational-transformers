@@ -1,0 +1,1 @@
+Amortised variational inference using transformers. Run main.py in src for example.
